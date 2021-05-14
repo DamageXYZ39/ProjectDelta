@@ -8,7 +8,7 @@
     <h1 style="color:#00ff55">Waiting for Signal </h1>
     <p style="color:#00ff55">~Waiting for root/base/delta.prj</p>
     <br>
-    <p style="color:#00ff55">Update at FRIDAY 8:00PM MST</p>
+    <p style="color:#00ff55">Please check back soon...</p>
    </body>
 </html>
 
