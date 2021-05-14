@@ -11,5 +11,3 @@
     <p style="color:#00ff55">Update at FRIDAY 8:00PM MST</p>
    </body>
 </html>
-
-// :)
