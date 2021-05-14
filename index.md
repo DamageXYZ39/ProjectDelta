@@ -10,7 +10,7 @@
     <br>
 
     <h1 style="color:#00ff55">-Waiting for Signal-</h1>
-    <h4 style="color:#00ff55">Dm @deltaContact_06 for more info
+    <h4 style="color:#00ff55">Dm @arg_delta for more info
     <p style="color:#00ff55">~Waiting for root/base/delta.prj</p>
     <br>
     <p style="color:#00ff55">Update soon... </p>
