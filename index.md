@@ -10,8 +10,5 @@
     <br>
     <p style="color:#00ff55">Update at 8:30AM MST</p>
 
-//  --We will be waiting-- \\
-
-
   </body>
 </html>
