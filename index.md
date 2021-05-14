@@ -9,6 +9,5 @@
     <p style="color:#00ff55">~Waiting for root/base/delta.prj</p>
     <br>
     <p style="color:#00ff55">Update at 8:30AM MST</p>
-
-  </body>
+   </body>
 </html>
