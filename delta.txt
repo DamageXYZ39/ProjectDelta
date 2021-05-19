@@ -3,7 +3,8 @@
  <h1>Project: Delta <!-- sjkfhskjf --> <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> </h1>
 
 Var: -v, -db</p>
-<span id="a">Signal recieved:</span> <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> Eta 12ht - 1w</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<span id="a">Signal recieved:</span> <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> Eta 12hr - 1w</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> 13% Downloaded...
 <p><!-- laglaglaglaglaglaglaglaglaglaglaglaglag --> Manual decryption is required</p> <br>
 
 <!-- slightdelayhere--> Please stand by<!-- longlonglongcomment -->
