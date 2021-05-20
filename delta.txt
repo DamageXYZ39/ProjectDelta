@@ -3,8 +3,9 @@
  <h1>Project: Delta <!-- sjkfhskjf --> <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> </h1>
 
 Var: -v, -db</p>
-<span id="a">Signal recieved:</span> <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> Eta 6d</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> 26% Downloaded...</p>
+<span id="a">Signal recieved:</span> <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<span id="b">ERROR: DOWNLOAD PAUSED! KEY MUST BE SOLVED</span>
+// <p> 26% Downloaded...</p>
 
 <h3>Key.delta loaded early</h3>
 <span id="a">Early Key Available!: 01010100 01000111 00111001 01101010 01011001 01011000 01010010 01110000 01100010 00110010 00110100 00111101 </span>
