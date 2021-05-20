@@ -8,6 +8,11 @@ Var: -v, -db</p>
 
 <h3>Key.delta loaded early</h3>
 <span id="a">Early Key Available!: 01010100 01000111 00111001 01101010 01011001 01011000 01010010 01110000 01100010 00110010 00110100 00111101 </span>
-<p><!-- laglaglaglaglaglaglaglaglaglaglaglaglag --> Manual decryption is required. Please enter code <a href="https://forms.gle/yZiBkDzthVtbaKXm7">Here</a> </p> <br>
+<p><!-- laglaglaglaglaglaglaglaglaglaglaglaglag --> Manual decryption is required. Please enter code <a href="https://forms.gle/yZiBkDzthVtbaKXm7">Here</a> </p>
+<span id="a">Code Entered:</span><p> TG9jYXRpb24= </p>
+<!--laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="b">Incorrect: Code can only be digits. Perhaps not fully decoded?</span>
+
+
 <!-- slightdelayhere--> Please stand by<!-- longlonglongcomment -->
 <p>~end</p>
