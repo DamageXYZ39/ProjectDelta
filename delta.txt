@@ -4,15 +4,15 @@
 
 Var: -v, -db</p>
 <span id="a">Signal recieved:</span> <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag --> </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<span id="b">ERROR: DOWNLOAD PAUSED! KEY MUST BE SOLVED</span>
+
 
 <h3>Key.delta loaded early</h3>
 <span id="a">Early Key Available!: 01010100 01000111 00111001 01101010 01011001 01011000 01010010 01110000 01100010 00110010 00110100 00111101 </span>
 <p><!-- laglaglaglaglaglaglaglaglaglaglaglaglag --> Manual decryption is required. Please enter code <a href="https://forms.gle/yZiBkDzthVtbaKXm7">Here</a> </p>
-<span id="a">Code Entered:</span><p> 26082845694868006137238795325</p>
+<span id="a">Code Entered:</span><p>2275349</p>
 <!--laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
-<span id="b">Incorrect code!</span>
-
+<span id="a">CORRECT CODE!</span>
+<a href="https://drive.google.com/file/d/1YEQl6FQurEo_ZrcwT3NnyHIvcijsqHRP/view?usp=sharing">Code</a>
 
 <!-- slightdelayhere--> Please stand by<!-- longlonglongcomment -->
 <p>~end</p>
